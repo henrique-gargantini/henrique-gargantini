@@ -3,12 +3,7 @@
 <p>Estudante de Sistemas de Informação com formação técnica em Desenvolvimento de Sistemas e foco em desenvolvimento web.</p>
 
 <p>Interesse em desenvolvimento Full Stack, com conhecimentos em JavaScript, PHP, MySQL, HTML, CSS e versionamento com Git e GitHub. Familiaridade com Python, Java e MongoDB.</p>
-
-<div style="display: inline_block">
-  <h2><img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-gargantini&show_icons=true&theme=github_dark_dimmed&custom_title=Atividades&rank_icon=github">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-gargantini&layout=donut&theme=github_dark_dimmed&custom_title=Linguagens"></h2>
-</div>
-
+<h2></h2>
 <h2>
   <div>
     <h3>🚀 Tecnologias</h3>
